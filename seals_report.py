@@ -152,7 +152,7 @@ if __name__ == '__main__':
     order_book_name = sys.argv[1]
     print(order_book_name)
     report = Seals_Report()
-    # заполнить дату  в листе Params и Ед изм
+   
     try:
         report.get_order_book(order_book_name)
         report.load_corresponding_table()
