@@ -3,4 +3,4 @@ Example:
 python seals_report.py 08_2021.xlsx
 08_2021.xlsx - Open Excel Workbook with Monthly Work Orders
 It is recommended to include the call in ControlPanel.xlsm
- 
+
